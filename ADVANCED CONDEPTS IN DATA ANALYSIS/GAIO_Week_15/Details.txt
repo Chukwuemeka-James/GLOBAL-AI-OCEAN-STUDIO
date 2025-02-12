@@ -1,0 +1,12 @@
+Hello GAIO Community!  
+
+Since our classes won’t be live for now, and explaining SQL purely through writing can be challenging, I’ve decided to provide a YouTube playlist that covers our topic in detail.  
+
+Today's Topic: SQL JOINS =   https://youtu.be/lXQzD09BOH0?si=ShFtLerOCZOPp-Mu  
+
+To gain a broader understanding, I encourage you to explore the entire SQL playlist:  
+PLAYLIST LINK: https://www.youtube.com/@AlexTheAnalyst
+
+Additionally, I’ve attached the SQL file covering today’s exercises within this folder. Please go through the videos and drop any questions on the platform.  
+
+Happy learning!
